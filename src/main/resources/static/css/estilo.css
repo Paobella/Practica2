@@ -1,0 +1,24 @@
+
+a:link {
+    color: coral;
+}
+
+a:hover {
+    transition: 1s; 
+    color: #414281;
+    border-radius: 10px;
+}
+
+a:active{
+    background-color: #7779F0;
+}
+
+a:visited {
+    color: coral;
+}
+.parafo {
+ 
+    color: blue;
+}
+
+
